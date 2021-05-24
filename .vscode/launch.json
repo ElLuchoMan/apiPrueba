@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Prueba6OracleJpaApplication<prueba-6-oracle-jpa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.dan.ejer.Prueba6OracleJpaApplication",
+            "projectName": "prueba-6-oracle-jpa",
+            "args": ""
+        }
+    ]
+}
